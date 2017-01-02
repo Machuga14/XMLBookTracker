@@ -12,7 +12,7 @@ namespace XMLBookTracker
     static class Program
     {
         /// <summary>
-        /// The main entry point for the application.
+        /// The main entry point for the application. 3.141592653589793238462643383279
         /// </summary>
         [STAThread]
         static void Main()
