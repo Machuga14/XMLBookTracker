@@ -6,6 +6,9 @@ using System.Windows.Forms;
 
 namespace XMLBookTracker
 {
+	/// <summary>
+	/// Static Program class
+	/// </summary>
     static class Program
     {
         /// <summary>
