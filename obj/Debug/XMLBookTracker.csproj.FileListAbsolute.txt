@@ -1,0 +1,10 @@
+c:\users\matthewc\documents\visual studio 2013\Projects\Testing XML Serializer\Testing XML Serializer\bin\Debug\XMLBookTracker.exe.config
+c:\users\matthewc\documents\visual studio 2013\Projects\Testing XML Serializer\Testing XML Serializer\bin\Debug\XMLBookTracker.exe
+c:\users\matthewc\documents\visual studio 2013\Projects\Testing XML Serializer\Testing XML Serializer\bin\Debug\XMLBookTracker.pdb
+c:\users\matthewc\documents\visual studio 2013\Projects\Testing XML Serializer\Testing XML Serializer\obj\Debug\XMLBookTracker.Properties.Resources.resources
+c:\users\matthewc\documents\visual studio 2013\Projects\Testing XML Serializer\Testing XML Serializer\obj\Debug\XMLBookTracker.csproj.GenerateResource.Cache
+c:\users\matthewc\documents\visual studio 2013\Projects\Testing XML Serializer\Testing XML Serializer\obj\Debug\XMLBookTracker.exe
+c:\users\matthewc\documents\visual studio 2013\Projects\Testing XML Serializer\Testing XML Serializer\obj\Debug\XMLBookTracker.pdb
+c:\users\matthewc\documents\visual studio 2013\Projects\Testing XML Serializer\Testing XML Serializer\obj\Debug\XMLBookTracker.ControlEditBook.resources
+c:\users\matthewc\documents\visual studio 2013\Projects\Testing XML Serializer\Testing XML Serializer\obj\Debug\XMLBookTracker.ControlViewBooks.resources
+c:\users\matthewc\documents\visual studio 2013\Projects\Testing XML Serializer\Testing XML Serializer\obj\Debug\XMLBookTracker.TestForm.resources

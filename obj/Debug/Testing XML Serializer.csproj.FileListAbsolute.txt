@@ -1,0 +1,11 @@
+c:\users\matthewc\documents\visual studio 2013\Projects\Testing XML Serializer\Testing XML Serializer\bin\Debug\Testing XML Serializer.exe.config
+c:\users\matthewc\documents\visual studio 2013\Projects\Testing XML Serializer\Testing XML Serializer\obj\Debug\Testing XML Serializer.csprojResolveAssemblyReference.cache
+c:\users\matthewc\documents\visual studio 2013\Projects\Testing XML Serializer\Testing XML Serializer\obj\Debug\Testing_XML_Serializer.Properties.Resources.resources
+c:\users\matthewc\documents\visual studio 2013\Projects\Testing XML Serializer\Testing XML Serializer\obj\Debug\Testing XML Serializer.csproj.GenerateResource.Cache
+c:\users\matthewc\documents\visual studio 2013\Projects\Testing XML Serializer\Testing XML Serializer\bin\Debug\Testing XML Serializer.exe
+c:\users\matthewc\documents\visual studio 2013\Projects\Testing XML Serializer\Testing XML Serializer\bin\Debug\Testing XML Serializer.pdb
+c:\users\matthewc\documents\visual studio 2013\Projects\Testing XML Serializer\Testing XML Serializer\obj\Debug\Testing XML Serializer.exe
+c:\users\matthewc\documents\visual studio 2013\Projects\Testing XML Serializer\Testing XML Serializer\obj\Debug\Testing XML Serializer.pdb
+c:\users\matthewc\documents\visual studio 2013\Projects\Testing XML Serializer\Testing XML Serializer\obj\Debug\Testing_XML_Serializer.ControlEditBook.resources
+c:\users\matthewc\documents\visual studio 2013\Projects\Testing XML Serializer\Testing XML Serializer\obj\Debug\Testing_XML_Serializer.ControlViewBooks.resources
+c:\users\matthewc\documents\visual studio 2013\Projects\Testing XML Serializer\Testing XML Serializer\obj\Debug\Testing_XML_Serializer.TestForm.resources
