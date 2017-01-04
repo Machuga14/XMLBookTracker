@@ -32,6 +32,10 @@ namespace XMLBookTracker
         public ControlEditBook()
         {
             InitializeComponent();
+
+            this.allowEditing = false;
+            this.SaveButtonText = "Finish";
+            this.UpdateForAllowEditing();
         }
 
         #endregion
@@ -162,21 +166,21 @@ namespace XMLBookTracker
         {
             if (this.allowEditing)
             {
-                this.tbxAuthor.ReadOnly = true;
-                this.tbxBookName.ReadOnly = true;
-                this.tbxPrice.ReadOnly = true;
-                this.tbxQuantity.ReadOnly = true;
-
-                this.btnFinish.Hide();
-            }
-            else
-            {
                 this.tbxAuthor.ReadOnly = false;
                 this.tbxBookName.ReadOnly = false;
                 this.tbxPrice.ReadOnly = false;
                 this.tbxQuantity.ReadOnly = false;
 
                 this.btnFinish.Show();
+            }
+            else
+            {
+                this.tbxAuthor.ReadOnly = true;
+                this.tbxBookName.ReadOnly = true;
+                this.tbxPrice.ReadOnly = true;
+                this.tbxQuantity.ReadOnly = true;
+
+                this.btnFinish.Hide();
             }
         }
 
