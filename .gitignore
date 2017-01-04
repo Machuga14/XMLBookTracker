@@ -41,3 +41,13 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+bin/Debug/XMLBookTracker.exe
+bin/Debug/XMLBookTracker.pdb
+bin/Debug/XMLBookTracker.vshost.exe.manifest
+obj/Debug/DesignTimeResolveAssemblyReferences.cache
+obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+obj/Debug/XMLBookTracker.csproj.FileListAbsolute.txt
+obj/Debug/XMLBookTracker.csproj.GenerateResource.Cache
+obj/Debug/XMLBookTracker.csprojResolveAssemblyReference.cache
+obj/Debug/XMLBookTracker.exe
+obj/Debug/XMLBookTracker.pdb

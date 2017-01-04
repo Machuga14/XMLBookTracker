@@ -30,10 +30,10 @@
         {
             this.panel1 = new System.Windows.Forms.Panel();
             this.lblViewBooks = new System.Windows.Forms.Label();
-            this.controlViewBooks1 = new XMLBookTracker.ControlViewBooks();
             this.panel2 = new System.Windows.Forms.Panel();
             this.lblDefineNewBooks = new System.Windows.Forms.Label();
             this.controlEditBook1 = new XMLBookTracker.ControlEditBook();
+            this.controlViewBooks1 = new XMLBookTracker.ControlViewBooks();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.SuspendLayout();
@@ -57,17 +57,6 @@
             this.lblViewBooks.Size = new System.Drawing.Size(63, 13);
             this.lblViewBooks.TabIndex = 1;
             this.lblViewBooks.Text = "View Books";
-            // 
-            // controlViewBooks1
-            // 
-            this.controlViewBooks1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.controlViewBooks1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.controlViewBooks1.Location = new System.Drawing.Point(3, 32);
-            this.controlViewBooks1.Name = "controlViewBooks1";
-            this.controlViewBooks1.Size = new System.Drawing.Size(529, 428);
-            this.controlViewBooks1.TabIndex = 0;
             // 
             // panel2
             // 
@@ -98,6 +87,17 @@
             this.controlEditBook1.SaveButtonText = "Add";
             this.controlEditBook1.Size = new System.Drawing.Size(153, 195);
             this.controlEditBook1.TabIndex = 0;
+            // 
+            // controlViewBooks1
+            // 
+            this.controlViewBooks1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.controlViewBooks1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.controlViewBooks1.Location = new System.Drawing.Point(3, 32);
+            this.controlViewBooks1.Name = "controlViewBooks1";
+            this.controlViewBooks1.Size = new System.Drawing.Size(529, 428);
+            this.controlViewBooks1.TabIndex = 0;
             // 
             // TestForm
             // 

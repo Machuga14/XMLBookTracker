@@ -8,3 +8,14 @@ c:\users\matthewc\documents\visual studio 2013\Projects\Testing XML Serializer\T
 c:\users\matthewc\documents\visual studio 2013\Projects\Testing XML Serializer\Testing XML Serializer\obj\Debug\XMLBookTracker.ControlEditBook.resources
 c:\users\matthewc\documents\visual studio 2013\Projects\Testing XML Serializer\Testing XML Serializer\obj\Debug\XMLBookTracker.ControlViewBooks.resources
 c:\users\matthewc\documents\visual studio 2013\Projects\Testing XML Serializer\Testing XML Serializer\obj\Debug\XMLBookTracker.TestForm.resources
+C:\Users\MatthewC\Documents\GitHub\XMLBookTracker\XMLBookTracker\bin\Debug\XMLBookTracker.exe.config
+C:\Users\MatthewC\Documents\GitHub\XMLBookTracker\XMLBookTracker\obj\Debug\XMLBookTracker.exe
+C:\Users\MatthewC\Documents\GitHub\XMLBookTracker\XMLBookTracker\obj\Debug\XMLBookTracker.pdb
+C:\Users\MatthewC\Documents\GitHub\XMLBookTracker\XMLBookTracker\bin\Debug\XMLBookTracker.exe
+C:\Users\MatthewC\Documents\GitHub\XMLBookTracker\XMLBookTracker\bin\Debug\XMLBookTracker.pdb
+C:\Users\MatthewC\Documents\GitHub\XMLBookTracker\XMLBookTracker\obj\Debug\XMLBookTracker.csprojResolveAssemblyReference.cache
+C:\Users\MatthewC\Documents\GitHub\XMLBookTracker\XMLBookTracker\obj\Debug\XMLBookTracker.ControlEditBook.resources
+C:\Users\MatthewC\Documents\GitHub\XMLBookTracker\XMLBookTracker\obj\Debug\XMLBookTracker.ControlViewBooks.resources
+C:\Users\MatthewC\Documents\GitHub\XMLBookTracker\XMLBookTracker\obj\Debug\XMLBookTracker.TestForm.resources
+C:\Users\MatthewC\Documents\GitHub\XMLBookTracker\XMLBookTracker\obj\Debug\XMLBookTracker.Properties.Resources.resources
+C:\Users\MatthewC\Documents\GitHub\XMLBookTracker\XMLBookTracker\obj\Debug\XMLBookTracker.csproj.GenerateResource.Cache
